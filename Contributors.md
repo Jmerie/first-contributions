@@ -66,6 +66,7 @@
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Rodrigo Franco](https://github.com/rodrigoAMF)
+- [Jessica Merie Anderson](https://github.com/Jmerie)
 - [Nasir Kamal](https://github.com/nasirkamal)
 - [Stefanos Ugbit](https://github.com/stefanosu)
 - [Abhushan A Joshi](https://github.com/abhu-A-J)
